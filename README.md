@@ -1,2 +1,2 @@
 # TrainingCalc
-Creates Training Plan based on AMRAP Test for Parkour Athletes.
+Creates training plan based on AMRAP-test for parkour athletes.
